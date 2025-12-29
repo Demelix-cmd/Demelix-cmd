@@ -28,10 +28,9 @@
 
 ### 📌 Selected Projects
 
-- **🚗 Car Rental Management System**
-  - Reservation handling
-  - User authentication (Admin / Client)
-  - Dynamic statistics dashboard
+-**E-commerce Application deploy through internet for one month and break for financial problem**
+  -Using php language
+  -Mysql for databases
 
 - **🤖 AI Message Classifier**
   - Machine Learning classification
