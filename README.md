@@ -1,4 +1,4 @@
-# Hi, I'm Said 👋  
+# Hi, I'm Saïd 👋  
 **Computer Engineering Student | Web Developer | AI Enthusiast**
 
 ---
